@@ -1,0 +1,6 @@
+WIREFRAME NOTES - LAYOUT SPECIFICATIONS
+Intern: Porutselvi A | Reference ID: CT/INT/2026/OCT/009 | Company: CRACKYYY.TECH
+
+- Desktop (1366px+): Fixed header, immersive hero section, 4-column product grid, 2rem balanced spacing.
+- Tablet (768px): 2-column product grid, stacked filter toolbar, touch-friendly targets.
+- Mobile (360px+): Single-column layout, collapsible hamburger navigation, full-width touch buttons, zero horizontal overflow.

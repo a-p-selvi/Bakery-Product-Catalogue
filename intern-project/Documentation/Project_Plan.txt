@@ -1,0 +1,12 @@
+PROJECT PLAN - MAISON DE DOUCE BAKERY CATALOGUE
+Intern: Porutselvi A | Reference ID: CT/INT/2026/OCT/009 | Company: CRACKYYY.TECH
+
+1. Objective: Build a luxury bakery product catalogue web application.
+2. Target Audience: Dessert lovers, patisserie patrons, and event planners.
+3. Five Key User Needs:
+   - High-end visual aesthetics and branding.
+   - Quick search and category filtering.
+   - Transparent pricing in Indian Rupees (₹) with detailed ingredient info.
+   - Ability to save favourite items across visits.
+   - Seamless enquiry communication with validation.
+4. Page Map: Home, Catalogue, About Heritage, Enquiry Form, Internship Documentation Hub.

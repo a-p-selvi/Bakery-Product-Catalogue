@@ -1,0 +1,13 @@
+TASK CHECKLIST - 10 MANDATORY INTERNSHIP REQUIREMENTS
+Intern: Porutselvi A | Reference ID: CT/INT/2026/OCT/009 | Company: CRACKYYY.TECH
+
+[X] 1. Website planning: audience, 5 user needs & page map.
+[X] 2. Desktop & mobile wireframe documentation.
+[X] 3. Semantic HTML5 pages with 8 sample products.
+[X] 4. Responsive styling tested at 360px, 768px, 1366px.
+[X] 5. Dynamic product cards & empty state handling.
+[X] 6. Case-insensitive search, category filter, reset button & count.
+[X] 7. Form validation with inline errors & success preview.
+[X] 8. LocalStorage favourite persistence & clear action.
+[X] 9. 10 functional usability tests & accessibility checks.
+[X] 10. Complete source code, README & internship submission package.

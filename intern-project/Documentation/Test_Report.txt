@@ -1,0 +1,13 @@
+TEST REPORT & USABILITY AUDIT (10 CHECKS)
+Intern: Porutselvi A | Reference ID: CT/INT/2026/OCT/009 | Company: CRACKYYY.TECH
+
+TC-01: Responsive Navbar & Hamburger Toggle -> PASS
+TC-02: Dynamic Product Rendering (8+ items) -> PASS
+TC-03: Case-Insensitive Search Filtering -> PASS
+TC-04: Category Dropdown Filtering -> PASS
+TC-05: Empty State Handling & Reset -> PASS
+TC-06: Product Details Modal Display -> PASS
+TC-07: LocalStorage Favourites Persistence -> PASS
+TC-08: Enquiry Form Validation & Inline Errors -> PASS
+TC-09: Success Preview Notice (No-backend note) -> PASS
+TC-10: Viewport Responsiveness (360px, 768px, 1366px) -> PASS

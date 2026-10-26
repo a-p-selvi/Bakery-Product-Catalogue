@@ -1,0 +1,8 @@
+PROGRESS REPORT - INTERNSHIP PROJECT
+Intern: Porutselvi A | Reference ID: CT/INT/2026/OCT/009 | Company: CRACKYYY.TECH
+
+Weekly Milestones:
+- Week 1: Planning, wireframes, and branding design.
+- Week 2: Semantic HTML5 and luxury CSS styling.
+- Week 3: JavaScript dynamic rendering, search, and filtering logic.
+- Week 4: LocalStorage favourites, form validation, testing, and ZIP delivery.
